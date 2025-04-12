@@ -22,7 +22,7 @@ The scraped data can be used for purposes such as **market research, competitor 
 
 ## ⚙️ Getting Started
 
-### Prerequisites
+### Prerequisites 
 
 Ensure the following are installed:
 
