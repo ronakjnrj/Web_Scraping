@@ -11,7 +11,7 @@ This project utilizes **Python**, along with the `requests` and `BeautifulSoup` 
 - Product URLs
 
 The scraped data can be used for purposes such as **market research, competitor price tracking, academic analysis, or personal data aggregation projects**.
-
+ 
 ## 🚀 Key Features
 
 - **Targeted Data Extraction:** Efficiently pulls specific product details like name, price, and link from a given website. 
