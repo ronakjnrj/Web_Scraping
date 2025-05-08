@@ -9,7 +9,7 @@ This project utilizes **Python**, along with the `requests` and `BeautifulSoup` 
 - Product titles  
 - Prices  
 - Product URLs
-
+ 
 The scraped data can be used for purposes such as **market research, competitor price tracking, academic analysis, or personal data aggregation projects**.
  
 ## 🚀 Key Features
