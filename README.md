@@ -20,7 +20,7 @@ The scraped data can be used for purposes such as **market research, competitor 
 - **Error Handling:** Includes basic checks to handle connection issues or missing data fields.
 - **Lightweight and Fast:** Uses lightweight Python libraries and runs quickly even on large pages. 
 
-## ⚙️ Getting Started
+## ⚙️ Getting Started 
 
 ### Prerequisites 
 
