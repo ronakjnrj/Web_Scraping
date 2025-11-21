@@ -1,6 +1,6 @@
  # Web Scraping Project 
 
-This project is designed to **automate the extraction of product information** such as titles, prices, and links from a target e-commerce website. It simplifies the process of collecting structured data from product listings and **saves the extracted information to a CSV file** for further analysis or reporting. 
+This project is designed to **automate the extraction of product information** such as titles, prices, and links from a target e-commerce website. It simplifies the process of collecting structured data from product listings and **saves the extracted information to a CSV file** for further analysis or reporting.  
   
 ## 🧾 Overview 
 
