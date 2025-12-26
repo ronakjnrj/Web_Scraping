@@ -4,7 +4,7 @@ This project is designed to **automate the extraction of product information** s
   
 ## 🧾 Overview    
 
-This project utilizes **Python**, along with the `requests` and `BeautifulSoup` libraries, to scrape data such as:   
+This project utilizes **Python**, along with the `requests` and `BeautifulSoup` libraries, to scrape data such as: 
  
 - Product titles    
 - Prices
